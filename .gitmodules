@@ -1,0 +1,3 @@
+[submodule "atvv1-pi"]
+	path = atvv1-pi
+	url = https://github.com/MatheusSFelixx/atv1-pi.git
